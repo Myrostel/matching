@@ -1,0 +1,49 @@
+{
+  "sales_reps": [
+    {
+      "name": "Oliver",
+      "age": 34,
+      "location": "Urban area",
+      "occupation": "Sales Executive",
+      "interests": ["Music", "Cooking", "Travel"],
+      "values": ["Passion", "Good food", "Adventure"],
+      "personality_traits": ["Enthusiastic", "Gourmet", "Wanderlust"]
+    },
+    {
+      "name": "Ava",
+      "age": 28,
+      "location": "Urban area",
+      "occupation": "Sales Associate",
+      "interests": ["Fashion", "Photography", "Socializing"],
+      "values": ["Creativity", "Aesthetics", "Connections"],
+      "personality_traits": ["Stylish", "Artistic", "Sociable"]
+    },
+    {
+      "name": "Jacob",
+      "age": 32,
+      "location": "Suburban area",
+      "occupation": "Sales Manager",
+      "interests": ["Golf", "Reading", "Fine dining"],
+      "values": ["Success", "Knowledge", "Quality"],
+      "personality_traits": ["Professional", "Intellectual", "Discerning"]
+    },
+    {
+      "name": "Mia",
+      "age": 30,
+      "location": "Urban area",
+      "occupation": "Sales Consultant",
+      "interests": ["Fitness", "Healthy cooking", "Mindfulness"],
+      "values": ["Wellness", "Nutrition", "Balance"],
+      "personality_traits": ["Energetic", "Health-conscious", "Empathetic"]
+    },
+    {
+      "name": "Lucas",
+      "age": 36,
+      "location": "Suburban area",
+      "occupation": "Sales Director",
+      "interests": ["Hiking", "Nature photography", "Craft beer tasting"],
+      "values": ["Adventure", "Appreciation for nature", "Craftsmanship"],
+      "personality_traits": ["Outdoorsy", "Creative", "Social"]
+    }
+  ]
+}

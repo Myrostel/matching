@@ -1,0 +1,49 @@
+{
+  "customers": [
+    {
+      "name": "Sophie",
+      "age": 27,
+      "location": "Urban area",
+      "occupation": "Graphic Designer",
+      "interests": ["Art", "Fashion", "Travel"],
+      "values": ["Creativity", "Self-expression", "Exploration"],
+      "personality_traits": ["Artistic", "Fashionable", "Curious"]
+    },
+    {
+      "name": "James",
+      "age": 40,
+      "location": "Suburban area",
+      "occupation": "Business Owner",
+      "interests": ["Golf", "Fine dining", "Investing"],
+      "values": ["Success", "Quality of life", "Financial security"],
+      "personality_traits": ["Ambitious", "Sophisticated", "Strategic"]
+    },
+    {
+      "name": "Lila",
+      "age": 33,
+      "location": "Urban area",
+      "occupation": "Writer",
+      "interests": ["Literature", "Nature", "Yoga"],
+      "values": ["Creativity", "Mindfulness", "Environmental conservation"],
+      "personality_traits": ["Reflective", "Free-spirited", "Eco-conscious"]
+    },
+    {
+      "name": "Ethan",
+      "age": 29,
+      "location": "Urban area",
+      "occupation": "Software Developer",
+      "interests": ["Technology", "Gaming", "Sci-fi movies"],
+      "values": ["Innovation", "Exploration", "Community"],
+      "personality_traits": ["Tech-savvy", "Imaginative", "Collaborative"]
+    },
+    {
+      "name": "Isabella",
+      "age": 36,
+      "location": "Rural area",
+      "occupation": "Chef",
+      "interests": ["Cooking", "Farming", "Wine tasting"],
+      "values": ["Culinary excellence", "Sustainability", "Farm-to-table"],
+      "personality_traits": ["Passionate", "Down-to-earth", "Gourmet"]
+    }
+  ]
+}
